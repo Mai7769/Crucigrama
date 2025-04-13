@@ -1,1 +1,1 @@
-// Simulación de script H5P
+// JS real generado por Lumi
