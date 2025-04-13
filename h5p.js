@@ -1,0 +1,1 @@
+// Simulación de script H5P
